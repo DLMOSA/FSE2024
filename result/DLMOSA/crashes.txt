@@ -1,0 +1,2 @@
+TensorFlow中的crash：NHWC的concatenate、unsupported in PRELU。
+MindSpore中的crash：failure in memory allocation in 15 different operators。
